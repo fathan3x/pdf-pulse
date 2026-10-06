@@ -1,3 +1,4 @@
+import "pdf-parse/worker";
 import { NextResponse } from "next/server";
 import { PDFParse } from "pdf-parse";
 
