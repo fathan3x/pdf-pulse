@@ -158,7 +158,7 @@ export default function FileUpload06() {
           type="file"
         />
         <span className="mt-2 block text-base/6 text-muted-foreground group-disabled:opacity-50 sm:text-xs">
-          Supported: PDF (max 10 MB)
+          Supported: PDF (max 1 MB)
         </span>
       </Card>
 
